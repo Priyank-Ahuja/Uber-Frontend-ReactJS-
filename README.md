@@ -1,4 +1,4 @@
-# HPDF Team Task Github Submission
+# HPDF Team Task Github Submission - UBER CLONE
 
 This is a clone of a major cab booking website known as UBER. In this app a user can either sign up as a Driver or a Rider using the Hasura auth api. User data on sign up is stored on the hasura cluster database and if the sign in fails an error message is displayed to the user. The rider then can further book a cab by entering the Pick up location and Destination and can also see the cabs near the pick up location pinned on google maps before booking the cab. 
 
