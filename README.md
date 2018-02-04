@@ -38,7 +38,7 @@ $ npm start
 
 * Now navigate to `localhost:3000` in your browser
 
-![app screen](https://i.imgur.com/sYJIS36.png "app screen")
+![app screen](https://i.imgur.com/8W8scam.png "app screen")
 
 ## Tutorial
 
@@ -131,8 +131,8 @@ my-app
 ```
 
 
-  ![Home view](https://drive.google.com/open?id=1T13HapJqi7gOBr6KsR0VyZ3PmjGfbMQO "Home view")
+  ![Home view](https://i.imgur.com/8W8scam.png "Home view")
 
-  ![RidePage view](https://drive.google.com/open?id=1n_wLYoEPlEgDEIbqrRTnSvC84DYK438h "RidePage view")
+  ![RidePage view](https://i.imgur.com/zO80Zci.png "RidePage view")
   
-  ![MapPage view](https://drive.google.com/open?id=1hFEebYDFyOVPu78Si7RsqZIJof6FVgtn "MapPage view")
+  ![MapPage view](https://i.imgur.com/WVjd9gL.png "MapPage view")
